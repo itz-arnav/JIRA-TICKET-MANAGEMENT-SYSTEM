@@ -37,7 +37,7 @@ Step 5 : Commit
 🎀🎀Before submitting an issue please find the correct folder where your program will go , You can discuss about it in the discussion.
 
 To commit give a descriptive message for the convenience of reveiwer by:
-# This message get associated with all files you have changed
+# This message get associated with all files you have changed.
 $ git commit -m "message"
 NOTE: A PR should have only one commit. Multiple commits should be squashed.
 Step 6 : Work Remotely
