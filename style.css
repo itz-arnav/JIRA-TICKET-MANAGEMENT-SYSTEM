@@ -21,7 +21,7 @@ body{
 
 .toolbox-priority-cont{
     height: 3rem;
-    background-color: #DEDFEE;
+    background-color: #eededf;
     width: 18rem;
     margin-left: 5rem;
     display: flex;
@@ -73,7 +73,7 @@ body{
     position: absolute;
     left: 25vw;
     top:25vh;
-    background-color: #EEEDDE;
+    background-color: #eededf;
     height: 50vh;
     width: 50vw;
     display: none;
@@ -83,7 +83,7 @@ body{
     outline:none;
     resize: none;
     border: none;
-    background-color:#DEDFEE;
+    background-color:#eededf;
     height: 100%;
     width: 75%;
     font-size: 2rem;
@@ -119,7 +119,7 @@ body{
 }
 
 .ticket-cont{
-    background-color: #DEDFEE;
+    background-color: #eededf;
     height: 10rem;
     width: 16rem;
 }
@@ -130,7 +130,7 @@ body{
 
 .ticket-id{
     height: 1.5rem;
-    background-color: #DEDFEE;
+    background-color: #eededf;
     font-weight: 600;
     font-size: .9rem;
     color: #141E27;
