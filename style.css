@@ -10,7 +10,7 @@ body{
 
 .toolbox-cont{
     height: 5rem;
-    background-color: #191427;
+    background-color: #fafafa;
     display: flex;
     align-items: center;
     position:fixed;
