@@ -20,7 +20,7 @@ body{
 
 .toolbox-priority-cont{
     height: 3rem;
-    background-color: #EEEDDE;
+    background-color: #DEDFEE;
     width: 18rem;
     margin-left: 5rem;
     display: flex;
@@ -30,7 +30,7 @@ body{
 }
 
 .action-btn-cont{
-    background-color: #EEEDDE;
+    background-color: #DEDFEE;
     height: 3rem;
     width: 10rem;
     margin-left: 5rem;
@@ -54,7 +54,7 @@ body{
 }
 
 .green{
-    background-color:lightgreen;
+    background-color:yellow;
 }
 .black{
 
@@ -82,7 +82,7 @@ body{
     outline:none;
     resize: none;
     border: none;
-    background-color:#EEEDDE;
+    background-color:#DEDFEE;
     height: 100%;
     width: 75%;
     font-size: 2rem;
@@ -118,7 +118,7 @@ body{
 }
 
 .ticket-cont{
-    background-color: #EEEDDE;
+    background-color: #DEDFEE;
     height: 10rem;
     width: 16rem;
 }
@@ -129,7 +129,7 @@ body{
 
 .ticket-id{
     height: 1.5rem;
-    background-color: #EEEDDE;
+    background-color: #DEDFEE;
     font-weight: 600;
     font-size: .9rem;
     color: #141E27;
