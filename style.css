@@ -51,15 +51,16 @@ body{
 }
 
 .blue{
-
+    background-color:blue;
 }
 
 .green{
+    background-color:green;
     background-color:orange;
     background-color:rgb(162, 162, 106);
 }
 .black{
-
+    background-color:black;
 }
 
 .add-btn{
@@ -134,7 +135,7 @@ body{
     background-color: #f15761;
     font-weight: 600;
     font-size: .9rem;
-    color: #141E27;
+    color: grey;
     margin-left: 0.3rem;
     margin-top: 0.3rem;
 }
@@ -150,6 +151,6 @@ body{
 }
 
 .lock-unlock{
-    font-size: 1.5rem;
-    margin-left: 14.5rem;
+    font-size: 1.9rem;
+    margin-left: 14.8rem;
 }

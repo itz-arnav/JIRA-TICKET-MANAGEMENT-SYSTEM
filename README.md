@@ -68,3 +68,5 @@ To push your work to your remote repository
 ```
 $ git push -u origin Branch_Name
 ```
+Thank you for your contribution
+Happy Hactober
