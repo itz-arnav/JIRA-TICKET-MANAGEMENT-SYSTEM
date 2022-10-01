@@ -59,6 +59,9 @@ body{
     background-color:orange;
     background-color:rgb(162, 162, 106);
 }
+.white{
+    background-color:white;
+}
 .black{
     background-color:black;
 }
@@ -151,6 +154,8 @@ body{
 }
 
 .lock-unlock{
+    font-size: 1.5rem;
+    margin-left: 14.5rem;
     font-size: 1.9rem;
     margin-left: 14.8rem;
 }
