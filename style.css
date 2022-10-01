@@ -5,12 +5,13 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #E0DDAA;
+    background-color: #97567d;
 }
 
 .toolbox-cont{
     height: 5rem;
-    background-color: #141E27;
+    background-color: #1cc7f2;
+    background-color: #fd9797;
     display: flex;
     align-items: center;
     position:fixed;
@@ -20,7 +21,7 @@ body{
 
 .toolbox-priority-cont{
     height: 3rem;
-    background-color: #EEEDDE;
+    background-color: #c79296;
     width: 18rem;
     margin-left: 5rem;
     display: flex;
@@ -30,7 +31,7 @@ body{
 }
 
 .action-btn-cont{
-    background-color: #EEEDDE;
+    background-color: #8e8ee4;
     height: 3rem;
     width: 10rem;
     margin-left: 5rem;
@@ -46,21 +47,23 @@ body{
 }
 
 .lightpink{
-    background-color:lightpink;
+    background-color:#f167aae6;
 }
 
 .blue{
-    background-color:lightblue
+    background-color:blue;
 }
 
 .green{
-    background-color:lightgreen;
+    background-color:green;
+    background-color:orange;
+    background-color:rgb(162, 162, 106);
 }
 .white{
     background-color:white;
 }
 .black{
-    background-color:black
+    background-color:black;
 }
 
 .add-btn{
@@ -75,7 +78,7 @@ body{
     position: absolute;
     left: 25vw;
     top:25vh;
-    background-color: #EEEDDE;
+    background-color: #834146;
     height: 50vh;
     width: 50vw;
     display: none;
@@ -85,12 +88,12 @@ body{
     outline:none;
     resize: none;
     border: none;
-    background-color:#EEEDDE;
+    background-color:#eededf;
     height: 100%;
     width: 75%;
     font-size: 2rem;
     padding: 2rem;
-    border-right: 2px solid #141E27;
+    border-right: 2px solid #2b353d;
 }
 
 .priority-color-cont{
@@ -108,7 +111,7 @@ body{
 }
 
 .active{
-    border: 5px solid #E0DDAA;
+    border: 5px solid #e3de7d;
 }
 
 .main-cont{
@@ -121,7 +124,7 @@ body{
 }
 
 .ticket-cont{
-    background-color: #EEEDDE;
+    background-color: #f86b74;
     height: 10rem;
     width: 16rem;
 }
@@ -132,10 +135,10 @@ body{
 
 .ticket-id{
     height: 1.5rem;
-    background-color: #EEEDDE;
+    background-color: #f15761;
     font-weight: 600;
     font-size: .9rem;
-    color: #141E27;
+    color: grey;
     margin-left: 0.3rem;
     margin-top: 0.3rem;
 }
@@ -153,4 +156,6 @@ body{
 .lock-unlock{
     font-size: 1.5rem;
     margin-left: 14.5rem;
+    font-size: 1.9rem;
+    margin-left: 14.8rem;
 }
