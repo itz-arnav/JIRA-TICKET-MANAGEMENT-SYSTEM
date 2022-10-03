@@ -27,7 +27,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border-radius: 2px;
+    border-radius: 2rem;
+    padding: 0.5rem;
 }
 
 .action-btn-cont{
@@ -38,7 +39,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border-radius: 2px;
+    border-radius: 2rem;
+    padding: 0.5rem;
 }
 
 .color{
@@ -66,12 +68,19 @@ body{
     background-color:black;
 }
 
-.add-btn{
+.add-btn, .remove-btn {
     font-size: 1.5rem;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 2rem;
 }
 
-.remove-btn{
-    font-size: 1.5rem;
+.add-btn:hover, .remove-btn:hover {
+    background-color: #252538;
+    color: #8e8ee4;
 }
 
 .modal-cont{
