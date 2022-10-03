@@ -29,6 +29,7 @@ body{
     justify-content: space-around;
     border-radius: 2rem;
     padding: 0.5rem;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.3);
 }
 
 .action-btn-cont{
@@ -41,6 +42,7 @@ body{
     justify-content: space-around;
     border-radius: 2rem;
     padding: 0.5rem;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.3);
 }
 
 .color{
@@ -49,7 +51,7 @@ body{
 }
 
 .lightpink{
-    background-color:#f167aae6;
+    background-color:#f13a93e6;
 }
 
 .blue{
@@ -136,25 +138,33 @@ body{
     background-color: #f86b74;
     height: 10rem;
     width: 16rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.3);
 }
 
 .ticket-color{
-    height: 1rem;
+    height: 0.8rem;
+    width: 100%;
 }
 
 .ticket-id{
-    height: 1.5rem;
+    height: 1.2rem;
     background-color: #f15761;
     font-weight: 600;
     font-size: .9rem;
-    color: grey;
+    color: rgb(187, 187, 187);
     margin-left: 0.3rem;
     margin-top: 0.3rem;
+    padding: 0.1rem 0.3rem 0rem 0.3rem;
+    border-radius: 0.5rem;
 }
 
 .task-area{
     height: 5rem;
-    padding-left: 0.3rem;
+    padding-left: 0.4rem;
     padding-right: 0.3rem;
     font-size: 1.25rem;
     overflow: auto;
@@ -163,8 +173,14 @@ body{
 }
 
 .lock-unlock{
-    font-size: 1.5rem;
-    margin-left: 14.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
     font-size: 1.9rem;
-    margin-left: 14.8rem;
+    width: 100%;
+    padding-right: 1rem;
+}
+
+.lock-unlock i:hover {
+    color: #00004d;
 }
