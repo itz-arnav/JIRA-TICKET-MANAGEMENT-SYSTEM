@@ -99,7 +99,7 @@ modalCont.addEventListener("keydown", function (e) {
 
 removeBtn.addEventListener("click", function () {
     if (removeFlag) {
-        removeBtn.style.color = 'black'
+        removeBtn.style.color = ""
     } else {
         removeBtn.style.color = "red"
     }
