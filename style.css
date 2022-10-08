@@ -5,7 +5,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #97567d;
+    background-color: #8795dc;
 }
 
 .toolbox-cont{
@@ -89,7 +89,7 @@ body{
     position: absolute;
     left: 25vw;
     top:25vh;
-    background-color: #834146;
+    background-color: #4f272a;
     height: 50vh;
     width: 50vw;
     display: none;
@@ -104,7 +104,7 @@ body{
     width: 75%;
     font-size: 2rem;
     padding: 2rem;
-    border-right: 2px solid #2b353d;
+    border-right: 2px solid #2e353a;
 }
 
 .priority-color-cont{
@@ -152,7 +152,7 @@ body{
 
 .ticket-id{
     height: 1.2rem;
-    background-color: #f15761;
+    background-color: #cf656c;
     font-weight: 600;
     font-size: .9rem;
     color: rgb(187, 187, 187);
