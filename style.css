@@ -5,13 +5,13 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #f0afd6;
+    background-color: #97567d;
 }
 
 .toolbox-cont{
-    height: 5rem;
-    background-color: #096a83;
-    background-color: #fafafa;
+    height: 6rem;
+    background-color: #1cc7f2;
+    background-color: #fd9797;
     display: flex;
     align-items: center;
     position:fixed;
@@ -20,9 +20,9 @@ body{
 }
 
 .toolbox-priority-cont{
-    height: 3rem;
-    background-color: #eededf;
-    width: 18rem;
+    height: 4rem;
+    background-color: #c79296;
+    width: 16rem;
     margin-left: 5rem;
     display: flex;
     align-items: center;
@@ -31,8 +31,8 @@ body{
 }
 
 .action-btn-cont{
-    background-color: #DEDEEF;
-    height: 3rem;
+    background-color: #505090;
+    height: 4rem;
     width: 10rem;
     margin-left: 5rem;
     display: flex;
@@ -43,11 +43,11 @@ body{
 
 .color{
     height: 1.5rem;
-    width: 3rem;
+    width: 4rem;
 }
 
 .lightpink{
-    background-color:#ff1485e6;
+    background-color:#f167aae6;
 }
 
 .blue{
@@ -55,7 +55,7 @@ body{
 }
 
 .green{
-    background-color:yellow;
+    background-color:rgb(162, 162, 106);
 }
 .black{
 
@@ -73,7 +73,7 @@ body{
     position: absolute;
     left: 25vw;
     top:25vh;
-    background-color: #eededf;
+    background-color: #834146;
     height: 50vh;
     width: 50vw;
     display: none;
@@ -85,10 +85,10 @@ body{
     border: none;
     background-color:#eededf;
     height: 100%;
-    width: 75%;
+    width: 72%;
     font-size: 2rem;
     padding: 2rem;
-    border-right: 2px solid #141E27;
+    border-right: 2px solid #2b353d;
 }
 
 .priority-color-cont{
@@ -106,7 +106,7 @@ body{
 }
 
 .active{
-    border: 5px solid #E0DDAA;
+    border: 5px solid #e3de7d;
 }
 
 .main-cont{
@@ -119,9 +119,9 @@ body{
 }
 
 .ticket-cont{
-    background-color: #eededf;
-    height: 10rem;
-    width: 16rem;
+    background-color: #f86b74;
+    height: 12rem;
+    width: 18rem;
 }
 
 .ticket-color{
@@ -130,8 +130,8 @@ body{
 
 .ticket-id{
     height: 1.5rem;
-    background-color: #eededf;
-    font-weight: 600;
+    background-color: #f15761;
+    font-weight: 500;
     font-size: .9rem;
     color: #141E27;
     margin-left: 0.3rem;
