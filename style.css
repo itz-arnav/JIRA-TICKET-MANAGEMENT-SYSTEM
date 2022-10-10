@@ -5,12 +5,12 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #8795dc;
+    background-color: #33BBFF;
 }
 
 .toolbox-cont{
     height: 5rem;
-    background-color:#1cc7f2;
+    background-color:#FF33B2;
     background-color:#fd9797;
     display: flex;
     align-items: center;
@@ -34,20 +34,20 @@ body{
 
 .action-btn-cont{
     background-color: #8e8ee4;
-    height: 3.1rem;
-    width: 10.1rem;
+    height: 3.2rem;
+    width: 10.2rem;
     margin-left: 5rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
     border-radius: 2rem;
-    padding: 0.5rem;
+    padding: 0.51rem;
     box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.3);
 }
 
 .color{
-    width: 3.1rem;
-    height: 1.5rem;
+    width: 3.0rem;
+    height: 1.6rem;
 }
 
 .lightpink{
@@ -152,7 +152,7 @@ body{
 
 .ticket-id{
     height: 1.2rem;
-    background-color: #cf656c;
+    background-color: #FF33B2;
     font-weight: 601;
     font-size: .9rem;
     color: rgb(187, 187, 187);
