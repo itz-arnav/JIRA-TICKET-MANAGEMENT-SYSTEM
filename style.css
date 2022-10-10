@@ -5,13 +5,13 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #33BBFF;
+    background-color: #FFFFF0;
 }
 
 .toolbox-cont{
-    height: 5rem;
-    background-color:#FF33B2;
-    background-color:#fd9797;
+    height: 6rem;
+    background-color:#FFE4B5;
+    background-color:#F0E68C;
     display: flex;
     align-items: center;
     position:fixed;
@@ -20,23 +20,23 @@ body{
 }
 
 .toolbox-priority-cont{
-    height: 3rem;
-    background-color: #c79296;
+    height: 4rem;
+    background-color: #00FFFF;
     width: 18rem;
-    margin-left: 5rem;
+    margin-left: 6rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 0.5rem;
-    border-radius: 2rem;
+    padding: 0.7rem;
+    border-radius: 3rem;
     box-shadow: 1px 1px 10px rgb(0, 0, 0, 0.3);
 }
 
 .action-btn-cont{
-    background-color: #8e8ee4;
-    height: 3.2rem;
-    width: 10.2rem;
-    margin-left: 5rem;
+    background-color: #66CDAA;
+    height: 3.5rem;
+    width: 10.5rem;
+    margin-left: 6rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -46,12 +46,12 @@ body{
 }
 
 .color{
-    width: 3.0rem;
-    height: 1.6rem;
+    width: 3.1rem;
+    height: 1.7rem;
 }
 
 .lightpink{
-    background-color:#f13a93e6;
+    background-color:#FF4500;
 }
 
 .blue{
@@ -71,27 +71,27 @@ body{
 }
 
 .add-btn, .remove-btn {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.5rem;
-    border-radius: 2rem;
+    padding: 0.6rem;
+    border-radius: 3rem;
 }
 
 .add-btn:hover, .remove-btn:hover {
-    background-color: #252538;
+    background-color: #FF1493;
     color: #8e8ee4;
 }
 
 .modal-cont{
     position: absolute;
-    top:26vh;
-    left: 26vw;
-    background-color: #4f272a;
-    width: 50vw;
-    height: 50vh;
+    top:27vh;
+    left: 27vw;
+    background-color: #FFA500;
+    width: 52vw;
+    height: 52vh;
     display: none;
 }
 
@@ -102,14 +102,14 @@ body{
     background-color:#eededf;
     height: 100%;
     width: 76%;
-    font-size: 2rem;
-    padding: 2rem;
-    border-right: 2px solid #2e353a;
+    font-size: 3rem;
+    padding: 3rem;
+    border-right: 3px solid #2e353a;
 }
 
 .priority-color-cont{
     height: 100%;
-    width: 26%;
+    width: 27%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -117,12 +117,12 @@ body{
 }
 
 .priority-color{
-    height: 3rem;
-    width: 5rem;
+    height: 4rem;
+    width: 6rem;
 }
 
 .active{
-    border: 5px solid #e3de7d;
+    border: 6px solid #e3de7d;
 }
 
 .main-cont{
@@ -130,14 +130,14 @@ body{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    gap: 2.2rem; 
-    margin-bottom: 2.2rem;
+    gap: 2.3rem; 
+    margin-bottom: 2.3rem;
 }
 
 .ticket-cont{
-    background-color: #f86b74;
-    height: 10rem;
-    width: 16rem;
+    background-color: #7FFFD4;
+    height: 11rem;
+    width: 17rem;
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -151,22 +151,22 @@ body{
 }
 
 .ticket-id{
-    height: 1.2rem;
-    background-color: #FF33B2;
+    height: 1.3rem;
+    background-color: #A52A2A;
     font-weight: 601;
-    font-size: .9rem;
+    font-size: .10rem;
     color: rgb(187, 187, 187);
-    margin-left: 0.3rem;
-    margin-top: 0.3rem;
-    padding: 0.1rem 0.3rem 0rem 0.3rem;
-    border-radius: 0.5rem;
+    margin-left: 0.4rem;
+    margin-top: 0.4rem;
+    padding: 0.2rem 0.4rem 0rem 0.4rem;
+    border-radius: 0.6rem;
 }
 
 .task-area{
-    height: 5rem;
-    padding-left: 0.4rem;
+    height: 6rem;
+    padding-left: 0.5rem;
     padding-right: 0.3rem;
-    font-size: 1.25rem;
+    font-size: 1.26rem;
     overflow: auto;
     outline: none;
     word-break: break-all;
@@ -176,7 +176,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    font-size: 1.9rem;
+    font-size: 1.10rem;
     width: 100%;
     padding-right: 1rem;
 }
