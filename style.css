@@ -5,13 +5,12 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #FFFFF0;
+    background-color: #00537A;
 }
 
 .toolbox-cont{
     height: 6rem;
-    background-color:#FFE4B5;
-    background-color:#F0E68C;
+    background-color:#FFBA42;
     display: flex;
     align-items: center;
     position:fixed;
@@ -21,7 +20,7 @@ body{
 
 .toolbox-priority-cont{
     height: 4rem;
-    background-color: #00FFFF;
+    background-color: #66CDAA;
     width: 18rem;
     margin-left: 6rem;
     display: flex;
@@ -81,8 +80,8 @@ body{
 }
 
 .add-btn:hover, .remove-btn:hover {
-    background-color: #FF1493;
-    color: #8e8ee4;
+    background-color: #f6e2bc;
+    color: #26265f;
 }
 
 .modal-cont{
