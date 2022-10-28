@@ -5,12 +5,14 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #cbeaf8;
+    background-color:#caa6ef ;
+    /* #cbeaf8; */
 }
 
 .toolbox-cont{
     height: 6rem;
-    background-color:#5282fb;
+    background-color:#5a4b6c;
+    /* #5282fb; */
     display: flex;
     align-items: center;
     position:fixed;
